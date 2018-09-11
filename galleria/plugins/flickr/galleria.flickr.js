@@ -1,7 +1,8 @@
 /**
- * Galleria Flickr Plugin 2012-09-04
+ * Galleria Flickr Plugin 2016-09-03
  * http://galleria.io
  *
+ * Copyright (c) 2010 - 2017 worse is better UG
  * Licensed under the MIT license
  * https://raw.github.com/worseisbetter/galleria/master/LICENSE
  *
